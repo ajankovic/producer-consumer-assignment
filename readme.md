@@ -1,7 +1,7 @@
 A Simple Producer/Consumer Web Link Extractor
 =============================================
 
-Interview assignment
+Interview assignment. Developed with Python 3.4.
 
 Quick start
 -----------
